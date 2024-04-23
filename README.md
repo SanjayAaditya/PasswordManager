@@ -1,2 +1,2 @@
 # PasswordManager
-Password Manager with a basic interactive UI.
+Password Manager with a basic interactive UI
